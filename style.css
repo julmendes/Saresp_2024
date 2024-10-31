@@ -12,3 +12,13 @@ label, input {
     display: block;
     margin-bottom: 10px;
 }
+button {
+    background-color: #710eb8;
+    color: white;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #710eb8;
+}
